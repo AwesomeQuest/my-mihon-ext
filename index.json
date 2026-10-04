@@ -1,0 +1,34 @@
+{
+  "name": "AwesomeQuest",
+  "badgeLabel": "AQ",
+  "signingKey": "ddcef9fbe31abb77ef7333ec2035f4e66da0d348293a9b6bd224f0c67ba25e0d",
+  "contact": {
+    "website": "https://github.com/AwesomeQuest/my-mihon-ext",
+    "discord": null
+  },
+  "extensionList": {
+    "extensions": [
+      {
+        "name": "Rule34",
+        "packageName": "eu.kanade.tachiyomi.extension.all.rule34",
+        "resources": {
+          "apkUrl": "https://github.com/AwesomeQuest/my-mihon-ext/raw/main/tachiyomi-all.aq-v1.6.1.apk",
+          "iconUrl": "https://github.com/AwesomeQuest/my-mihon-ext/raw/main/icon.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106001,
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": 6421345590175893162,
+            "name": "Rule34",
+            "language": "all",
+            "homeUrl": "https://rule34.xxx"
+          }
+        ]
+      }
+    ]
+  },
+  "extensionListUrl": null
+}
