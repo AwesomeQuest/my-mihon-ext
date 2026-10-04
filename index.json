@@ -12,12 +12,12 @@
         "name": "Rule34",
         "packageName": "eu.kanade.tachiyomi.extension.all.rule34",
         "resources": {
-          "apkUrl": "https://github.com/AwesomeQuest/my-mihon-ext/raw/main/tachiyomi-all.aq-v1.6.3.apk",
+          "apkUrl": "https://github.com/AwesomeQuest/my-mihon-ext/raw/main/tachiyomi-all.aq-v1.6.4.apk",
           "iconUrl": "https://github.com/AwesomeQuest/my-mihon-ext/raw/main/icon.png"
         },
         "extensionLib": "1.6",
-        "versionCode": 106003,
-        "versionName": "1.6.3",
+        "versionCode": 106004,
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
